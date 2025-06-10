@@ -1,2 +1,1 @@
-# depression-detection-svm
-depression-detection-svm
+Depression is a significant mental health concern globally, and early detection can help in timely intervention. Social media platforms like Twitter provide a wealth of textual data that can be leveraged to identify depressive tendencies using machine learning. This project explores the use of classical machine learning models—K-Nearest Neighbors (KNN), Logistic Regression, Support Vector Machine (SVM), and Random Forest—for classifying tweets as depressive or non-depressive. The project includes data preprocessing, feature engineering, model training, evaluation, and deployment via a user-friendly Streamlit application.
